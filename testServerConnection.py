@@ -2,7 +2,7 @@ import os
 import time
 from ftplib import FTP_TLS
 
-ftp_host = '10.73.220.213'
+ftp_host = "10.73.220.213"
 ftp_port = 21
 
 ftp = FTP_TLS()

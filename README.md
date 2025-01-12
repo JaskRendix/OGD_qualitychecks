@@ -3,7 +3,7 @@ This [Streamlit app](https://bfe-ogd-quality-process.streamlit.app/) enables use
 
 You can find the app [here](https://bfe-ogd-quality-process.streamlit.app/)
 
-## Feautres
+## Features
 - **File Upload**: Users can upload CSV files for validation directly through the Streamlit interface.
 - **Schema-based Validation**: Leveraging Frictionless, the app validates uploaded CSV files against predefined schemas or inferred data structures.
 - **Error Handling**: Error messages are provided in case of validation issues, aiding users in understanding and rectifying data problems.
